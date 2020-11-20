@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personCollection>
+<person>
+	<first_name>Petr</first_name>
+	<second_name>Klíč</second_name>
+	<birth_date>1968-05-01</birth_date>
+	<name_day_date>2015-06-29</name_day_date>
+	<note>His favorite color is yellow</note>
+</person>
+<person>
+	<first_name>Petr</first_name>
+	<second_name>Černý</second_name>
+	<birth_date>1963-01-01</birth_date>
+	<name_day_date>2020-02-22</name_day_date>
+	<note>Loves old movies</note>
+</person>
+<person>
+	<first_name>Ondřej</first_name>
+	<second_name>Hájek</second_name>
+	<birth_date>1992-01-09</birth_date>
+	<name_day_date>2015-11-30</name_day_date>
+	<note>Java junior</note>
+</person>
+<person>
+	<first_name>Hober</first_name>
+	<second_name>Mallow</second_name>
+	<birth_date>1920-01-02</birth_date>
+	<name_day_date>2020-01-09</name_day_date>
+	<note>Master Trader</note>
+</person>
+<person>
+	<first_name>Hober</first_name>
+	<second_name>Asimov</second_name>
+	<birth_date>1992-04-06</birth_date>
+	<name_day_date>2020-01-09</name_day_date>
+	<note> </note>
+</person>
+</personCollection>
